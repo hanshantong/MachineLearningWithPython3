@@ -106,4 +106,4 @@ venv.bak/
 *.tar
 *.gz
 /aclImdb
-*.csv
+movie_data.csv
